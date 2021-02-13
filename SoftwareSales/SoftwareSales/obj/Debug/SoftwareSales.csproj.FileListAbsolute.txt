@@ -1,0 +1,15 @@
+C:\Users\aw\source\repos\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.exe.config
+C:\Users\aw\source\repos\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.exe
+C:\Users\aw\source\repos\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.pdb
+C:\Users\aw\source\repos\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csprojAssemblyReference.cache
+C:\Users\aw\source\repos\SoftwareSales\SoftwareSales\obj\Debug\MainWindow.g.cs
+C:\Users\aw\source\repos\SoftwareSales\SoftwareSales\obj\Debug\App.g.cs
+C:\Users\aw\source\repos\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales_MarkupCompile.cache
+C:\Users\aw\source\repos\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales_MarkupCompile.lref
+C:\Users\aw\source\repos\SoftwareSales\SoftwareSales\obj\Debug\MainWindow.baml
+C:\Users\aw\source\repos\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.g.resources
+C:\Users\aw\source\repos\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.Properties.Resources.resources
+C:\Users\aw\source\repos\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csproj.GenerateResource.cache
+C:\Users\aw\source\repos\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.csproj.CoreCompileInputs.cache
+C:\Users\aw\source\repos\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.exe
+C:\Users\aw\source\repos\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.pdb
