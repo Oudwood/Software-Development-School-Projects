@@ -1,0 +1,15 @@
+C:\Users\aw\source\repos\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe.config
+C:\Users\aw\source\repos\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe
+C:\Users\aw\source\repos\ColorMixer\ColorMixer\bin\Debug\ColorMixer.pdb
+C:\Users\aw\source\repos\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csprojAssemblyReference.cache
+C:\Users\aw\source\repos\ColorMixer\ColorMixer\obj\Debug\MainWindow.g.cs
+C:\Users\aw\source\repos\ColorMixer\ColorMixer\obj\Debug\App.g.cs
+C:\Users\aw\source\repos\ColorMixer\ColorMixer\obj\Debug\ColorMixer_MarkupCompile.cache
+C:\Users\aw\source\repos\ColorMixer\ColorMixer\obj\Debug\ColorMixer_MarkupCompile.lref
+C:\Users\aw\source\repos\ColorMixer\ColorMixer\obj\Debug\MainWindow.baml
+C:\Users\aw\source\repos\ColorMixer\ColorMixer\obj\Debug\ColorMixer.g.resources
+C:\Users\aw\source\repos\ColorMixer\ColorMixer\obj\Debug\ColorMixer.Properties.Resources.resources
+C:\Users\aw\source\repos\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csproj.GenerateResource.cache
+C:\Users\aw\source\repos\ColorMixer\ColorMixer\obj\Debug\ColorMixer.csproj.CoreCompileInputs.cache
+C:\Users\aw\source\repos\ColorMixer\ColorMixer\obj\Debug\ColorMixer.exe
+C:\Users\aw\source\repos\ColorMixer\ColorMixer\obj\Debug\ColorMixer.pdb

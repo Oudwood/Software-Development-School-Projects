@@ -1,0 +1,61 @@
+﻿<Window x:Class="ColorMixer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ColorMixer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="400">
+    <Window.Resources>
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Margin" Value="5"></Setter>
+        </Style>
+        <Style x:Key="ViewBoxStyle" TargetType="Viewbox">
+            <Setter Property="Height" Value="20"></Setter>
+            <Setter Property="HorizontalAlignment" Value="Left"></Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid Name="TheGrid">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height=".5*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Viewbox Grid.Row="0" Grid.Column="0"
+                 Style="{StaticResource ViewBoxStyle}">
+            <RadioButton Content="Red" Name="LeftRed"></RadioButton>
+        </Viewbox>
+        <Viewbox Grid.Row="1" Grid.Column="0"
+                 Style="{StaticResource ViewBoxStyle}">
+            <RadioButton Content="Green" Name="LeftGreen"></RadioButton>
+        </Viewbox>
+        <Viewbox Grid.Row="2" Grid.Column="0"
+                 Style="{StaticResource ViewBoxStyle}">
+            <RadioButton Content="Blue" Name="LeftBlue"></RadioButton>
+        </Viewbox>
+        <Viewbox Grid.Row="0" Grid.Column="1"
+                 Style="{StaticResource ViewBoxStyle}">
+            <RadioButton Content="Red" Name="RightRed"></RadioButton>
+        </Viewbox>
+        <Viewbox Grid.Row="1" Grid.Column="1"
+                 Style="{StaticResource ViewBoxStyle}">
+            <RadioButton Content="Green" Name="RightGreen"></RadioButton>
+        </Viewbox>
+        <Viewbox Grid.Row="2" Grid.Column="1"
+                 Style="{StaticResource ViewBoxStyle}">
+            <RadioButton Content="Blue" Name="RightBlue"></RadioButton>
+        </Viewbox>
+        <Button Grid.Row="3" Grid.Column="0"
+            Content="Mix" Name="Mix" Click="Mix_Click"></Button>
+        <Button Grid.Row="3" Grid.Column="1"
+            Content="Clear" Name="Clear" Click="Clear_Click"></Button>
+
+    </Grid>
+</Window>
