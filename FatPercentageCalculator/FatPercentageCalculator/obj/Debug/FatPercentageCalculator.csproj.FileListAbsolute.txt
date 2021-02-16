@@ -1,0 +1,15 @@
+J:\Software Development\Assignments\Assignment 4\FatPercentageCalculator\FatPercentageCalculator\bin\Debug\FatPercentageCalculator.exe.config
+J:\Software Development\Assignments\Assignment 4\FatPercentageCalculator\FatPercentageCalculator\bin\Debug\FatPercentageCalculator.exe
+J:\Software Development\Assignments\Assignment 4\FatPercentageCalculator\FatPercentageCalculator\bin\Debug\FatPercentageCalculator.pdb
+J:\Software Development\Assignments\Assignment 4\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.csprojAssemblyReference.cache
+J:\Software Development\Assignments\Assignment 4\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\MainWindow.g.cs
+J:\Software Development\Assignments\Assignment 4\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\App.g.cs
+J:\Software Development\Assignments\Assignment 4\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator_MarkupCompile.cache
+J:\Software Development\Assignments\Assignment 4\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator_MarkupCompile.lref
+J:\Software Development\Assignments\Assignment 4\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\MainWindow.baml
+J:\Software Development\Assignments\Assignment 4\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.g.resources
+J:\Software Development\Assignments\Assignment 4\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.Properties.Resources.resources
+J:\Software Development\Assignments\Assignment 4\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.csproj.GenerateResource.cache
+J:\Software Development\Assignments\Assignment 4\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.csproj.CoreCompileInputs.cache
+J:\Software Development\Assignments\Assignment 4\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.exe
+J:\Software Development\Assignments\Assignment 4\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.pdb
