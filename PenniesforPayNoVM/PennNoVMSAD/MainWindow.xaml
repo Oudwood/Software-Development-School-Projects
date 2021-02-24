@@ -1,0 +1,86 @@
+﻿<Window x:Class="PennNoVMSAD.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PennNoVMSAD"
+        mc:Ignorable="d"
+        Title="Pennies for Pay" Height="500" Width="600">
+    <Window.Resources>
+        <Style x:Key="listboxbasic" TargetType="ListBox">
+            <Setter Property="Margin" Value="5"></Setter>
+            <Setter Property="FontSize" Value="20"></Setter>
+            <Setter Property="Foreground" Value="DarkBlue"></Setter>
+            <Setter Property="VerticalContentAlignment" Value="Center"></Setter>
+            <Setter Property="HorizontalContentAlignment" Value="Right"></Setter>
+            <Setter Property="Padding" Value="10"></Setter>
+        </Style>
+        <Style x:Key="ButtonBasic" TargetType="Button">
+            <Setter Property="FontSize" Value="15"></Setter>
+            <Setter Property="FontWeight" Value="Bold"></Setter>
+            <Setter Property="Height" Value="40"></Setter>
+            <Setter Property="Width" Value="100"></Setter>
+            <Setter Property="VerticalContentAlignment" Value="Center"></Setter>
+            <Setter Property="HorizontalContentAlignment" Value="Center"></Setter>
+        </Style>
+        <Style x:Key="LabelBasic" TargetType="Label">
+            <Setter Property="FontSize" Value="14"></Setter>
+            <Setter Property="FontWeight" Value="Bold"></Setter>
+            <Setter Property="VerticalContentAlignment" Value="Center"></Setter>
+            <Setter Property="HorizontalContentAlignment" Value="Center"></Setter>
+            <Setter Property="Margin" Value="15"></Setter>
+            <Setter Property="Height" Value="40"></Setter>
+        </Style>
+        <Style x:Key="TextBoxBasic" TargetType="TextBox">
+            <Setter Property="FontSize" Value="15"></Setter>
+            <Setter Property="FontWeight" Value="Bold"></Setter>
+            <Setter Property="VerticalContentAlignment" Value="Center"></Setter>
+            <Setter Property="HorizontalContentAlignment" Value="Center"></Setter>
+            <Setter Property="HorizontalAlignment" Value="Right"></Setter>
+            <Setter Property="Height" Value="30"></Setter>
+            <Setter Property="Width" Value="300"></Setter>
+            <Setter Property="Foreground" Value="DarkRed"></Setter>
+            <Setter Property="Background" Value="AliceBlue"></Setter>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height=".5*"></RowDefinition>
+            <RowDefinition Height=".5*"></RowDefinition>
+            <RowDefinition Height=".5*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height=".5*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Name="DaysAsk" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3"
+               Style="{StaticResource LabelBasic}">Please put the days you have worked</Label>
+        <Label Name="DaysShowResult" Grid.Row="2" Grid.Column="0" 
+               Style="{StaticResource LabelBasic}">Days Worked</Label>
+        <Label Name="PayShowResult" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2"
+               Style="{StaticResource LabelBasic}">Total Pay</Label>
+
+
+        <TextBox Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" PreviewTextInput="CheckIfNumber"
+                 Style="{StaticResource TextBoxBasic}" Name="DaysInput"></TextBox>
+        <Button Name="CheckPay" Click="CheckPay_Click" Style="{StaticResource ButtonBasic}"
+                Grid.Row="1" Grid.Column="2" Content="Check"></Button>
+        <Button Name="SavePay" Click="SavePay_Click" Style="{StaticResource ButtonBasic}"
+                Grid.Row="5" Grid.Column="2" Content="Save"></Button>
+        <Button Name="ClearPay" Click="ClearPay_Click" Style="{StaticResource ButtonBasic}"
+                Grid.Row="5" Grid.Column="1" Content="Clear"></Button>
+
+        <ListBox Name="DaysOutput" Grid.Row="3" Grid.Column="0" 
+                 Grid.RowSpan="2" Style="{StaticResource listboxbasic}">
+        </ListBox>
+        <ListBox Name="PayOutput" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2"
+                 Style="{StaticResource listboxbasic}">
+
+
+        </ListBox>
+    </Grid>
+</Window>
