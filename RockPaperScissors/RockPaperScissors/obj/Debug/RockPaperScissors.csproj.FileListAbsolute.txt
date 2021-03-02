@@ -1,0 +1,15 @@
+J:\Software Development\Assignments\Assignment 6\RockPaperScissorsGame\RockPaperScissors\RockPaperScissors\obj\Debug\MainWindow.g.cs
+J:\Software Development\Assignments\Assignment 6\RockPaperScissorsGame\RockPaperScissors\RockPaperScissors\obj\Debug\App.g.cs
+J:\Software Development\Assignments\Assignment 6\RockPaperScissorsGame\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors_MarkupCompile.cache
+J:\Software Development\Assignments\Assignment 6\RockPaperScissorsGame\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors_MarkupCompile.lref
+J:\Software Development\Assignments\Assignment 6\RockPaperScissorsGame\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+J:\Software Development\Assignments\Assignment 6\RockPaperScissorsGame\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+J:\Software Development\Assignments\Assignment 6\RockPaperScissorsGame\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+J:\Software Development\Assignments\Assignment 6\RockPaperScissorsGame\RockPaperScissors\RockPaperScissors\obj\Debug\MainWindow.baml
+J:\Software Development\Assignments\Assignment 6\RockPaperScissorsGame\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.g.resources
+J:\Software Development\Assignments\Assignment 6\RockPaperScissorsGame\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+J:\Software Development\Assignments\Assignment 6\RockPaperScissorsGame\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+J:\Software Development\Assignments\Assignment 6\RockPaperScissorsGame\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+J:\Software Development\Assignments\Assignment 6\RockPaperScissorsGame\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+J:\Software Development\Assignments\Assignment 6\RockPaperScissorsGame\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+J:\Software Development\Assignments\Assignment 6\RockPaperScissorsGame\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
